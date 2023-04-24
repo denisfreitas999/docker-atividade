@@ -2,7 +2,7 @@ LABEL version="1.0.0" description="Atividade de Docker" maintainer="Denisson Fre
 
 FROM python:3-slim
 
-WORKDIR /usr/src/docker-atividade
+WORKDIR /home/20121iqui0192/docker-atividade
 
 COPY . .
 
