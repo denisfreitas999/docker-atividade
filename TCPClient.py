@@ -1,8 +1,8 @@
 import webbrowser
 from socket import *
 
-nomeServidor = '200.17.141.82'
-portaServidor = 12000
+nomeServidor = '127.0.0.1'
+portaServidor = 12201
 
 socketCliente = socket(AF_INET, SOCK_STREAM)
 socketCliente.connect((nomeServidor, portaServidor))
