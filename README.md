@@ -8,6 +8,9 @@ Atividade de Docker da disciplina de laboratório de redes.
 # Manual para disponibilizar a página web em um container Docker no Laboratório Elan
 Este manual tem como objetivo orientar o processo de disponibilização da página web da Empresa Universitário Ensina em um container Docker no Laboratório Elan.
 
+# Resumo da empresa Universitário Ensina
+Universitário Ensina é uma plataforma web de streaming de vídeo, destinada à comunidade acadêmica, principalmente alunos de graduação. A plataforma permitirá que os alunos universitários com conhecimentos em disciplinas específicas possam compartilhar seu conhecimento criando cursos em vídeo e disponibilizando-os na plataforma. Os cursos serão acessíveis com preços baixos, de 0 a 50 reais, com a opção de doação para os alunos que desejarem ajudar. O desenvolvimento da plataforma será em WordPress, que é uma plataforma popular de gerenciamento de conteúdo, com recursos de personalização e integração com plugins de e-commerce e gerenciamento de cursos. O objetivo é criar uma plataforma intuitiva e de fácil utilização, com cursos de alta qualidade, segurança de dados, preços acessíveis e suporte eficiente para os usuários. A plataforma irá conectar os criadores de conteúdo com seus alunos, e também suportará a comunicação com os administradores da plataforma. O projeto tem como objetivo ser uma referência em plataforma de transmissão de cursos online para a comunidade acadêmica.
+
 # Pré-requisitos
 - Acesso ao Laboratório Elan
 - Conhecimento básico em Docker e comandos Linux
